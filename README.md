@@ -1,4 +1,5 @@
 # HydroMARMARA 2021 Teknofest Roket Yarışması MPU6050 Sensörü ile Sıcaklık ve İvme Değer Ölçümü
+## Enes Emre ÇİÇEK - 170519035
 
 ## **Projenin Amacı** 
 
